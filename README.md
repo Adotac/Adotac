@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adotac</h1>
-<h3 align="center">A person that tries to learn all things at once. My goal is to do VR/AR development.</h3>
+<h3 align="center">A person that tries to learn all things at once. My goal is to do research related VR/AR development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adotac&label=Profile%20views&color=0e75b6&style=flat" alt="adotac" /> </p>
 
