@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adotac&label=Profile%20views&color=0e75b6&style=flat" alt="adotac" /> </p>
 
-- 🔭 I’m currently working on **Smart Attendance and Intrusion Detection System**
-
 - 🌱 I’m currently learning **C#/.NET and AI/ML**
 
 <h3 align="left">Connect with me:</h3>
